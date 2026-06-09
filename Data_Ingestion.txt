@@ -1,4 +1,10 @@
 Hey, I am Ingesting the data in this file.  
 I am actively working on this file and actively working on this data.
 I am Ingesting more data more.
+<<<<<<< HEAD
 i am ingesting batch data.
+=======
+i am ingesting batch data.
+i am a serious developer.
+Hello there.
+>>>>>>> 0dc618a (bugfix3)
